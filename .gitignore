@@ -1,0 +1,13 @@
+# Local Python environments
+.venv*/
+venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local tooling and logs
+.vscode/
+.idea/
+*.log
