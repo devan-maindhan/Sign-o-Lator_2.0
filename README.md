@@ -32,3 +32,6 @@ Then double-click `Run Sign-o-lator.bat`.
 - Press **S** to speak the current text.
 - Press **F** to toggle full screen.
 - Press **Q** or **Esc** to quit.
+
+## Instructions
+Sign an ASL letter in front of the camera. The app predicts one letter at a time. Use the controls to add the letter, edit or clear the text, or speak it.
